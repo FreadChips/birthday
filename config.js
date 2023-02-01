@@ -23,7 +23,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给亲爱的": "./imgs/xiaokeai.jpg",
+        //"送给亲爱的": "./imgs/xiaokeai.jpg",
         "窦悦小可爱": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -31,7 +31,7 @@ var config = {
         turn_on: "开始",
         play: "音乐",
         bannar_coming: "颜色",
-        balloons_flying: "再来点啥",
+        balloons_flying: "气球？",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐",
